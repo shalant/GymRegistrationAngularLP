@@ -1,22 +1,22 @@
 {
   "enquiry": [
     {
-      "firstName": "test",
-      "lastName": "test",
-      "email": "doug.rosenberg@gmail.com",
-      "mobile": 7736274279,
-      "weight": 1000,
-      "height": 1.6,
-      "bmi": 86.71874999999999,
-      "bmiResult": "Obese",
-      "gender": "Male",
-      "requireTrainer": "Yes",
+      "firstName": "asdf",
+      "lastName": "asdf",
+      "email": "sadf",
+      "mobile": 2342,
+      "weight": 432,
+      "height": 432,
+      "bmi": 0.0023148148148148147,
+      "bmiResult": "Underweight",
+      "gender": "Female",
+      "requireTrainer": "No",
       "package": "Monthly",
       "important": [
-        "Sugar Craving Body"
+        "Building Lean Muscle"
       ],
       "haveGymBefore": "Yes",
-      "enquiryDate": "2023-07-19T05:00:00.000Z",
+      "enquiryDate": "2023-07-22T05:00:00.000Z",
       "id": 1
     }
   ]
