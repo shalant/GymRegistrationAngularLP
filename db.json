@@ -1,0 +1,23 @@
+{
+  "enquiry": [
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "doug.rosenberg@gmail.com",
+      "mobile": 7736274279,
+      "weight": 1000,
+      "height": 1.6,
+      "bmi": 86.71874999999999,
+      "bmiResult": "Obese",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-07-19T05:00:00.000Z",
+      "id": 1
+    }
+  ]
+}
